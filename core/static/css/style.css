@@ -1,0 +1,15 @@
+.ok {
+  color: green;
+}
+
+.no {
+  color: red;
+}
+span.required:after {
+    content: "*";
+    color: red;
+}
+
+.form-control {
+    margin: 10px;
+}
